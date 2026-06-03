@@ -1,21 +1,204 @@
-# 💫 About Me:
-🎓 B.Tech CSE Student (2027)<br><br>💻 Passionate Full-Stack Developer focused on MERN Stack and Java.<br><br>🚀 Building real-world web applications and continuously improving my coding skills.<br><br>🌱 Currently learning Data Structures & Algorithms, Backend Development, and Cloud Technologies.<br><br>🤝 Open to collaborating on innovative projects, hackathons, and open-source contributions.<br><br>💬 Ask me about Java, React.js, Node.js, MongoDB, and GitHub.<br><br>⚡ Fun fact: Turning coffee ☕ into clean code since day one!
+<h1 align="center">Hi 👋, I'm Kushal Rongali</h1>
 
+<h3 align="center">🚀 Full Stack Developer | ☕ Java Enthusiast | 🎓 B.Tech CSE Student</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kushal_rongali/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kushalrongali/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/kushalrongali/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kushal Rongali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushalrongali8@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%26+DSA+Learner;MERN+Stack+Developer;Hackathon+Participant;Open+Source+Enthusiast;Building+Projects+That+Matter+🚀" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kushalrongali&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kushalrongali&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kushalrongali&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kushalrongali&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kushalrongali&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=kushalrongali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 B.Tech Computer Science Engineering Student (Graduating 2027)
+
+💻 Passionate Full Stack Developer specializing in Java and MERN Stack
+
+🚀 Building scalable web applications and solving real-world problems through technology
+
+🌱 Currently learning Data Structures & Algorithms, Backend Engineering, Cloud Computing & System Design
+
+🏆 Active Hackathon Participant and Open Source Contributor
+
+🤝 Looking to collaborate on innovative projects, startups, and open-source initiatives
+
+💬 Ask me about Java, JavaScript, React.js, Node.js, MongoDB, Git & GitHub
+
+🎯 Goal: To become a Software Engineer building impactful products used by millions
+
+⚡ Fun Fact: I enjoy debugging complex problems more than finding simple solutions 😄
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/kushalrongali/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:kushalrongali8@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/kushalrongali">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+</p>
+
+---
+
+# 🚀 Current Focus
+
+🔹 Mastering Data Structures & Algorithms
+
+🔹 Building Full Stack MERN Applications
+
+🔹 Learning Cloud Technologies
+
+🔹 Contributing to Open Source Projects
+
+🔹 Preparing for Software Development Internships
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
+</p>
+
+### ⚛️ Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### ☁️ Cloud & Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=aws,vercel" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kushalrongali&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushalrongali&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalrongali&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushalrongali&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kushalrongali&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Solve 500+ DSA Problems
+
+✅ Contribute to Open Source Projects
+
+✅ Build Advanced MERN Applications
+
+✅ Strengthen Backend Development Skills
+
+✅ Learn Cloud & DevOps Fundamentals
+
+✅ Secure a Software Development Internship
+
+---
+
+# 🚀 Featured Projects
+
+🌟 Full Stack MERN Applications
+
+🌟 Java Projects
+
+🌟 Open Source Contributions
+
+🌟 Hackathon Projects
+
+🌟 DSA Repository
+
+🌟 Portfolio Website
+
+---
+
+# 📚 Currently Learning
+
+☕ Advanced Java
+
+🧠 Data Structures & Algorithms
+
+⚛️ React Ecosystem
+
+🌐 Backend Development
+
+☁️ AWS Cloud
+
+🐳 Docker
+
+---
+
+# 💡 Developer Quote
+
+<p align="center">
+<i>"First, solve the problem. Then, write the code."</i>
+<br>
+<b>– John Johnson</b>
+</p>
+
+---
+
+<h3 align="center">
+⭐ If you like my work, consider giving a star to my repositories! ⭐
+</h3>
+
+<h4 align="center">
+🚀 Building impactful software, one commit at a time.
+</h4>
